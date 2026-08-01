@@ -46,7 +46,7 @@ docker run --rm hello-devops
 
 Expected output: `Hello, DevOps!`
 
-![Docker run output](screenshots/YOUR-EXACT-FILENAME.png)
+![Docker run output](screenshots/docker-working.png.png)
 
 ## 4. CI/CD with GitHub Actions
 
