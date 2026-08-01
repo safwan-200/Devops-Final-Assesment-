@@ -53,9 +53,7 @@ pull request to `main`, using GitHub's hosted Ubuntu runner.
 
 Status:
 
-![CI](https://github.com/YOUR-USERNAME/devops-intern-final/actions/workflows/ci.yml/badge.svg)
-
-*(Replace `YOUR-USERNAME` above with your actual GitHub username once the repo is pushed.)*
+![CI](https://github.com/safwan-200/Devops-Final-Assesment-/actions/workflows/ci.yml/badge.svg)
 
 ## 5. Job Deployment with Nomad
 
