@@ -46,6 +46,8 @@ docker run --rm hello-devops
 
 Expected output: `Hello, DevOps!`
 
+![Docker run output](screenshots/YOUR-EXACT-FILENAME.png)
+
 ## 4. CI/CD with GitHub Actions
 
 `.github/workflows/ci.yml` runs `hello.py` automatically on every push or
